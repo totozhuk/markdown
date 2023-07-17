@@ -1,5 +1,6 @@
-import React from 'https://esm.sh/react@18.2.0'
-import 'marked'
+import React from 'https://esm.sh/react@18.2.0';
+import 'marked';
+
 
 class Previewer extends React.Component {
   constructor(props){
